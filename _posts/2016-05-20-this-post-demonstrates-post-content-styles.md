@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: "이 포스트는 컨텐츠의 스타일을 설명한다."
 categories: junk
 author: "Bart Simpson"
 meta: "Springfield"
