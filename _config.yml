@@ -1,10 +1,9 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: GenuineLee's blog
+author: genuinelee
+email: genuinelee@naver.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  현재 GitHub Page와 Jekyll을 공부중이다. 이 페이지는 안정적이지 않다.
+  향후 안정성이 확보되면 description을 작성할 것이다.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: jekyllrb
-    github:  jekyll
+    github:  leegenuine
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
